@@ -18,5 +18,6 @@ u can add value uin the end of dyn array
 but cant in static array 
 can not add and element in b/w the arrays
 
+    python use refferncial arrays in list
 
 - linkedlist
