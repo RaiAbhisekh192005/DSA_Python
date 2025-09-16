@@ -1,4 +1,4 @@
-# counting Digits 
+# Extracting Digits 
 
 
 ```
