@@ -19,3 +19,18 @@ for n in range(num):
         pass
     i += 1
 ```
+
+2 Approch 
+in this approch we are not going to get to ever no rather than we are going just the half of it 
+for ex -    32/2  = 16 we will go upto 16 only to check the factore for it
+
+```
+num = 58
+
+
+for n in range(1, num//2 + 1):
+    if num % n == 0:
+        print(n,'is a factor')
+        
+print(num, ' this is factor')
+```
